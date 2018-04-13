@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Stression</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="days">
+        <item>
+                13 апреля  Пятница
+        </item>
+        <item>
+            14 апреля  Суббота
+        </item>
+        <item>
+            15 апреля Воскресенье
+        </item>
+        <item>
+            16 апреля Воскресенье
+        </item>
+        <item>
+            17 апреля Воскресенье
+        </item>
+        <item>
+            18 апреля Воскресенье
+        </item>
+        <item>
+            19 апреля Воскресенье
+        </item>
+        <item>
+            20 апреля Воскресенье
+        </item>
+        <item>
+            21 апреля Воскресенье
+        </item>
+        <item>
+            22 апреля Воскресенье
+        </item>
+        <item>
+            23 апреля Воскресенье
+        </item>
+        <item>
+            24 апреля Воскресенье
+        </item>
+        <item>
+            25 апреля Воскресенье
+        </item>
+        <item>
+            26 апреля Воскресенье
+        </item>
+        <item>Понедельник день тяжёлый</item>
+        <item>Особенно после 6 воскресений подряд</item>
+    </string-array>
+    <string name="title_activity_timetable">TimetableActivity</string>
+</resources>

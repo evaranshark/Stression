@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dates_root>
+    <day>
+        <date>13 апреля</date>
+        <dow>Пятница</dow>
+        <link>13a</link>
+    </day>
+    <day>
+        <date>14 апреля</date>
+        <dow>Суббота</dow>
+        <link>14a</link>
+    </day>
+    <day>
+        <date>15 апреля</date>
+        <dow>Воскресенье</dow>
+        <link>15a</link>
+    </day>
+    <day>
+        <date>16 апреля</date>
+        <dow>Понедельник</dow>
+        <link>16a</link>
+    </day>
+    <day>
+        <date>17 апреля</date>
+        <dow>Вторник</dow>
+        <link>17a</link>
+    </day>
+    <day>
+        <date>18 апреля</date>
+        <dow>Среда</dow>
+        <link>18a</link>
+    </day>
+    <day>
+        <date>19 апреля</date>
+        <dow>Четверг</dow>
+        <link>19a</link>
+    </day>
+    <day>
+        <date>20 апреля</date>
+        <dow>Пятница</dow>
+        <link>20a</link>
+    </day>
+    <day>
+        <date>21 апреля</date>
+        <dow>Суббота</dow>
+        <link>21a</link>
+    </day>
+    <day>
+        <date>22 апреля</date>
+        <dow>Воскресенье</dow>
+        <link>22a</link>
+    </day>
+    <day>
+        <date>23 апреля</date>
+        <dow>Понедельник</dow>
+        <link>23a</link>
+    </day>
+    <day>
+        <date>24 апреля</date>
+        <dow>Вторник</dow>
+        <link>24a</link>
+    </day>
+    <day>
+        <date>25 апреля</date>
+        <dow>Среда</dow>
+        <link>25a</link>
+    </day>
+    <day>
+        <date>26 апреля</date>
+        <dow>Четверг</dow>
+        <link>26a</link>
+    </day>
+</dates_root>
