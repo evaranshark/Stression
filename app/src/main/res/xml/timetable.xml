@@ -39,18 +39,6 @@
             <aud>5-23</aud>
             <type></type>
         </lesson>
-        <lesson>
-            <time>13:10</time>
-            <course>ТМ (л)</course>
-            <aud>а212</aud>
-            <type></type>
-        </lesson>
-        <lesson>
-            <time>15:00</time>
-            <course>ТМ (пр)</course>
-            <aud>а212</aud>
-            <type></type>
-        </lesson>
     </link>
     <link ref="15a">
         <lesson>
@@ -91,18 +79,6 @@
             <aud>5-19</aud>
             <type></type>
         </lesson>
-        <lesson>
-            <time>13:10</time>
-            <course>ПМ</course>
-            <aud>5-23</aud>
-            <type></type>
-        </lesson>
-        <lesson>
-            <time>14:40</time>
-            <course>БХ (модуль)</course>
-            <aud>7-3</aud>
-            <type></type>
-        </lesson>
     </link>
     <link ref="17a">
         <lesson>
@@ -113,20 +89,20 @@
         </lesson>
         <lesson>
             <time>11:30</time>
-            <course>ТМ</course>
-            <aud>212</aud>
-            <type></type>
-        </lesson>
-        <lesson>
-            <time>13:10</time>
-            <course>ТМ</course>
-            <aud>212</aud>
+            <course>ПМ</course>
+            <aud>2-20</aud>
             <type></type>
         </lesson>
         <lesson>
             <time>15:00</time>
             <course>Русский язык (л)</course>
             <aud>2-20</aud>
+            <type></type>
+        </lesson>
+        <lesson>
+            <time>16:30</time>
+            <course>БХ (модуль)</course>
+            <aud>7-3</aud>
             <type></type>
         </lesson>
     </link>
@@ -139,34 +115,28 @@
         </lesson>
         <lesson>
             <time>9:40</time>
-            <course>Фармакогнозия (пр)</course>
-            <aud>7-3</aud>
-            <type></type>
-        </lesson>
-        <lesson>
-            <time>11:30</time>
-            <course>ТМ (л)</course>
-            <aud>212</aud>
+            <course>Математика</course>
+            <aud>5-12</aud>
             <type></type>
         </lesson>
         <lesson>
             <time>13:10</time>
-            <course>ТМ (пр)</course>
-            <aud>212</aud>
+            <course>БХ (2 лаб)</course>
+            <aud>7-3</aud>
             <type></type>
         </lesson>
     </link>
     <link ref="19a">
         <lesson>
             <time>8:00</time>
-            <course>Фарм. химия (пр)</course>
-            <aud>7-1</aud>
+            <course>Математика (пр)</course>
+            <aud>5-11</aud>
             <type></type>
         </lesson>
         <lesson>
             <time>9:40</time>
-            <course>Фарм. химия (пр)</course>
-            <aud>7-1</aud>
+            <course>ПМ (л)</course>
+            <aud>5-22</aud>
             <type></type>
         </lesson>
         <lesson>
@@ -178,12 +148,6 @@
         <lesson>
             <time>13:00</time>
             <course>Конференция</course>
-        </lesson>
-        <lesson>
-            <time>13:10</time>
-            <course>ТМ (пр)</course>
-            <aud>212</aud>
-            <type></type>
         </lesson>
     </link>
     <link ref="20a">
@@ -261,20 +225,20 @@
     <link ref="23a">
         <lesson>
             <time>9:40</time>
-            <course>ТМ (ЭКЗАМЕН)</course>
+            <course>ТМ (л)</course>
             <aud>212</aud>
             <type></type>
         </lesson>
         <lesson>
             <time>11:30</time>
-            <course>История (пр)</course>
-            <aud>5-22</aud>
+            <course>ТМ</course>
+            <aud>212</aud>
             <type></type>
         </lesson>
         <lesson>
             <time>13:10</time>
-            <course>Философия (пр)</course>
-            <aud>5-16</aud>
+            <course>ТМ</course>
+            <aud>2126</aud>
             <type></type>
         </lesson>
         <lesson>
@@ -286,15 +250,9 @@
     </link>
     <link ref="24a">
         <lesson>
-            <time>9:40</time>
-            <course>БХ (лаб)</course>
-            <aud>7-3</aud>
-            <type></type>
-        </lesson>
-        <lesson>
             <time>11:30</time>
-            <course>Фарм. химия (л)</course>
-            <aud>7-5</aud>
+            <course>ТМ</course>
+            <aud>212</aud>
             <type></type>
         </lesson>
         <lesson>
@@ -318,6 +276,12 @@
     </link>
     <link ref="25a">
         <lesson>
+            <time>11:30</time>
+            <course>ТМ (пр)</course>
+            <aud>212</aud>
+            <type></type>
+        </lesson>
+        <lesson>
             <time>13:10</time>
             <course>Философия (ЭКЗАМЕН)</course>
             <aud>5-16</aud>
@@ -338,15 +302,9 @@
     </link>
     <link ref="26a">
         <lesson>
-            <time>8:00</time>
-            <course>Фарм. химия (пр)</course>
-            <aud>7-1</aud>
-            <type></type>
-        </lesson>
-        <lesson>
             <time>9:40</time>
-            <course>Фарм. химия (пр)</course>
-            <aud>7-1</aud>
+            <course>ТМ (ЭКЗАМЕН)</course>
+            <aud>212</aud>
             <type></type>
         </lesson>
         <lesson>
